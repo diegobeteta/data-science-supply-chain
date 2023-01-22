@@ -15,4 +15,6 @@ Hello everyone, this presentation is a summary of my experience applying 'Data S
 4. Forecast KPI (Measurement of the quality of forecasting techniques)
 5. Hands-on (S scripting development for each statistical and Machine Learning forecasting model, optimization and forecasting for the coming periods)
 
+<img width="1512" alt="Screenshot 2023-01-22 at 00 57 42" src="https://user-images.githubusercontent.com/80663767/213907900-c82c411d-7781-488f-b9c0-1d52fdbaf471.png">
+
 Please follow me and let's grow together!

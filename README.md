@@ -16,5 +16,7 @@ Hello everyone, this presentation is a summary of my experience applying 'Data S
 5. Hands-on (S scripting development for each statistical and Machine Learning forecasting model, optimization and forecasting for the coming periods)
 
 <img width="1512" alt="Screenshot 2023-01-22 at 00 57 42" src="https://user-images.githubusercontent.com/80663767/213907900-c82c411d-7781-488f-b9c0-1d52fdbaf471.png">
+<img width="1565" alt="Screenshot 2023-01-22 at 00 59 15" src="https://user-images.githubusercontent.com/80663767/213907947-4a7201db-d977-4939-b779-8a11e4ec4c45.png">
+<img width="1602" alt="Screenshot 2023-01-22 at 00 59 58" src="https://user-images.githubusercontent.com/80663767/213907971-e87a2022-dda8-41e2-a04b-b73db56ca784.png">
 
 Please follow me and let's grow together!
